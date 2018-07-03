@@ -14,7 +14,7 @@ or
   ~~conda install -c conda-forge/label/broken opencv~~
   ----
   
-is suitable in my situation.
+is suitable in my situation.**(Finally I've found out there's some conflicts between packages dependencies, `conda install -c conda-forge opencv` is working well in fact.)**
 
 
 Eventually find a way [传送门](http://blog.csdn.net/k7arm/article/details/78178088) to set it up in the end of afternoon.This blog 
